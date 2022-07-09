@@ -16,6 +16,7 @@ class App extends React.Component<IAppProps, IAppState> {
 	}
 	render() { return (
   <div className="App">
+	HELLO WORLD
   </div>
 	) }
 }
