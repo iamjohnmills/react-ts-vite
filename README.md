@@ -1,4 +1,4 @@
-# React Typescript Starter Kit
+# React + Typescript Starter Kit
 
 A React + Typescript + Docker + Vite starter kit with event bus with only 2 dependencies: React and React-Dom (v17).
 
