@@ -3,8 +3,7 @@ import EventBus from "./EventBus";
 
 interface IAppProps {}
 
-interface IAppState {
-}
+interface IAppState {}
 
 class App extends React.Component<IAppProps, IAppState> {
 	constructor(props: IAppProps) {
