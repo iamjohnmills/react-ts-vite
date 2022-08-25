@@ -15,3 +15,5 @@ Preview Build |`npm run preview`
 **In this example, port 3000 in the container will be available at localhost:5000. HMR hot-reloading with Vite requires its own port to be specified. In this example its 5001. This needs to match what's in vite.config.ts as clientPort.*
 
 **Be sure to set `base` in vite.config.ts if publishing a public branch to github for demo*
+
+{% gist 77fd0507678f8be6d9e07213a937cd2b %}
