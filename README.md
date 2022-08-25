@@ -16,4 +16,4 @@ Preview Build |`npm run preview`
 
 **Be sure to set `base` in vite.config.ts if publishing a public branch to github for demo*
 
-<script src="https://gist.github.com/iamjohnmills/77fd0507678f8be6d9e07213a937cd2b"></script>
+See this Gist for hosting built files on Github pages by creating another branch: https://gist.github.com/iamjohnmills/77fd0507678f8be6d9e07213a937cd2b
